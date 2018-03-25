@@ -49,4 +49,8 @@ local.properties
 # Scala IDE specific (Scala & Java development for Eclipse)
 .cache-main
 .scala_dependencies
+<<<<<<< HEAD
 .worksheet
+=======
+.worksheet
+>>>>>>> branch 'master' of https://github.com/SergeyBennett/UppProject
